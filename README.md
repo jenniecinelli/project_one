@@ -2,10 +2,10 @@
 
 ## Team 
 
-Jennie Cinelli
-John Russell
-Mohamed Ismael
-Pallavi Umap
+* Jennie Cinelli
+* John Russell
+* Mohamed Ismael
+* Pallavi Umap
 
 ## Project Proposal
 
