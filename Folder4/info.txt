@@ -1,0 +1,2 @@
+* analysis J notebook
+* subfolder1 = graphics.png
