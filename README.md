@@ -13,23 +13,10 @@
 
 ## Finding Data
 
-Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
+Our group found data from the following sources:
 
-* data.world
+* data.CDC.gov
 
-* Kaggle
-
-* Data.gov
-
-* Public APIs
-
-* Awesome-APIs List
-
-* Medium APIs List
-
-Chances are you'll have to update your Project Outline as you explore the available data. **This is fine**—adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
-
-Make sure that your data is not too large for local analysis. **Big Data** datasets are difficult to manage locally, so consider a subset of that data or a different dataset altogether.
 
 ## Data Cleanup & Analysis
 
