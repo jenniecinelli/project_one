@@ -1,3 +1,0 @@
-* Merged datasets csv files
-* Merging J notebook
-** 1.constant, 2. By month, 3. By day

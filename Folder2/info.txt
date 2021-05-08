@@ -1,2 +1,0 @@
-* cleaned csv files
-* file with data source information
