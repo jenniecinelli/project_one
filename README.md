@@ -9,13 +9,14 @@
 
 ## Project Proposal
 
-> Our project is to uncover patterns in COVID-19 in the United States. We'll examine relationships between COVID-19 deaths and Health; COVID-19 deaths and Preventative Measures; COVID-19 deaths and Geography; COVID-19 deaths and Demographics; COVID-19 deaths and Timing;  and related questions, as the data admits.
+> Our project is to uncover patterns in COVID-19 in the United States. We'll examine relationships between COVID-19 deaths and Health; COVID-19 deaths and Preventative Measures; COVID-19 deaths and Geography and related questions, as the data admits.
 
 ## Finding Data
 
 Our group found data from the following sources:
 
 * data.CDC.gov
+* census.gov
 
 
 ## Data Cleanup & Analysis
